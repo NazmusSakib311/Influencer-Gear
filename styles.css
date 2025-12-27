@@ -275,5 +275,8 @@
       text-align: center;
       gap: 40px;
     }  
+    .featured-img {
+      max-width: 350px;
+    }
   }
   
