@@ -25,6 +25,7 @@
   /* ==== navbar styles ====  */
 
   .navbar {
+    padding: 10px 45px;
     justify-content: space-between;
     align-items: center;
   }
